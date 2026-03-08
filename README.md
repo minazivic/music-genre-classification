@@ -39,7 +39,7 @@ Performanse modela procenjene su korišćenjem **accuracy metrike** i **confusio
 
 Dataset korišćen u ovom projektu je Free Music Archive (FMA) dataset.
 
-Fajlovi tracks.csv i features.csv preuzeti su iz zvaničnog repozitorijuma
+Fajlovi tracks.csv i features.csv preuzeti su iz zvaničnog repozitorijuma:
 
 https://github.com/mdeff/fma
 
@@ -51,6 +51,7 @@ Dataset sadrži veliki broj audio zapisa zajedno sa numeričkim audio karakteris
 
 Mina Živić 240/2019
 
-## Autor
 
-Mina
+
+
+
